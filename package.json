@@ -1,0 +1,27 @@
+{
+  "name": "caravelo-bid-4-meal-api",
+  "version": "1.0.0",
+  "description": "Backend services for Bid 4 Meal React application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kohm/caravelo-bid-4-meal-api.git"
+  },
+  "author": "Lucio Poveda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kohm/caravelo-bid-4-meal-api/issues"
+  },
+  "homepage": "https://github.com/kohm/caravelo-bid-4-meal-api#readme",
+  "dependencies": {
+    "concurrently": "^3.5.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
